@@ -4,3 +4,9 @@
 <h1 align="center">Online web</h1>
 <p align="center"><img src="https://a.top4top.io/p_1807jt9rd0.png"/></p>
 <h2 align="center"><a href="https://ihackyours.github.io/Project-About/about.html">live!</a></h2>
+
+<h1 align="center">Please Follow🗣️</h1>
+<a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-🕴️-green?style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-0.1-green.svg?style=flat-square"></a>
