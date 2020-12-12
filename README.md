@@ -6,5 +6,14 @@
 <h2 align="center"><a href="https://ihackyours.github.io/Project-About/about.html">live!</a></h2>
 
 <h1 align="center">Please Follow🗣️</h1>
-<a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-🕴️-green?style=for-the-badge"></a>
+<p align="center">
+<a href="https://github.com/IHackYours"><img title="Author" src="https://img.shields.io/badge/Author-IHACK--YOURS-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-0.1-green.svg?style=flat-square"></a>
+<a href="https://github.com/IHackYours/followers"><img title="Followers" src="https://img.shields.io/github/followers/IHackYours?color=blue&style=flat-square"></a>
+<a href="https://github.com/IHackYours/Project-About/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/IHackYours/Project-About?color=red&style=flat-square"></a>
+<a href="https://github.com/IHackYours/Project-About/network/members"><img title="Forks" src="https://img.shields.io/github/forks/IHackYours/Project-About?color=red&style=flat-square"></a>
+<a href="https://github.com/IHackYours/Project-About/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/IHackYours/Project-About?label=Watchers&color=blue&style=flat-square"></a>
 </p>
